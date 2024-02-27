@@ -1,0 +1,1 @@
+# zabbix-Remove-Welcome-pager-Username-and-password-box
