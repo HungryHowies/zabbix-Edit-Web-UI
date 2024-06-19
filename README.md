@@ -1,5 +1,7 @@
 # Zabbix Remove Welcome-Page Username and Password Box
 
+The purpose is to only use SSo and to remove Userbname and Passwords.
+
 Navigate to this file
 ```
 vi /usr/share/zabbix/include/views/general.login.php
