@@ -1,6 +1,6 @@
 # zabbix-Remove-Welcome-pager-Username-and-password-box
 
-Naviaget to this file
+Navigate to this file
 ```
 vi /usr/share/zabbix/include/views/general.login.php
 ```
