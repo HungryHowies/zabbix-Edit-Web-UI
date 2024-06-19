@@ -1,4 +1,4 @@
-# zabbix-Remove-Welcome-pager-Username-and-password-box
+# Zabbix Remove Welcome-Pager Username and Password Box
 
 Navigate to this file
 ```
