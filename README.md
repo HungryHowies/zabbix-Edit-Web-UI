@@ -1,6 +1,6 @@
 # Zabbix Remove Welcome-Page Username and Password Box
 
-The purpose is to only use SSo and to remove Userbname and Passwords.
+The purpose is to only use SSO and to remove Username and Passwords.
 
 Navigate to this file
 ```
